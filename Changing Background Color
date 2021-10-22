@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>HTML BACKGROUND COLOR</title>
+  </head>
+  <body style="background-color: lightgreen;">
+    <hl>HTML Background Color</hl>
+    <p>Using CSS Style.</p>
+ </body>
+</html>
