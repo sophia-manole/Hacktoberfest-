@@ -1,0 +1,11 @@
+person = input ("Enter a person's name: ")
+adjective = input ("Enter an adjective: ")
+color = input ("Enter a color: ")
+adjective2 = input ("Enter a second adjective: ")
+
+
+
+
+print("Yesterday", person, " went to the beach and saw the", adjective, " ocean.")
+print("They also saw a", color, " cat." 
+print(" That was the most", adjective2, " day he had had in a long time.")
